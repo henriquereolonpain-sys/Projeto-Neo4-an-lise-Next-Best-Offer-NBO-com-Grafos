@@ -49,9 +49,9 @@ Aqui está o coração do projeto. O sistema:
 
 Como foi minha primeira vez usando o neo eu optei por mockar a database para facilitar, já que o foco era a plataforma
 
-## Lógica por trás das recomendações
+## 4. Lógica por trás das recomendações
 
-O sistema vai além de simplesmente sugerir produtos parecidos. Ele tenta encontrar pessoas realmente comparáveis ao cliente.
+Voltando ao python, o sistema vai além de simplesmente sugerir produtos parecidos ele utiliza a idade e o salário para filtrar melhor a recomendação. Para encontrar pessoas realmente comparáveis ao cliente.
 
 ![Output de Recomendação](Gráficos/output_recomendação_dots+salario.png)
 
