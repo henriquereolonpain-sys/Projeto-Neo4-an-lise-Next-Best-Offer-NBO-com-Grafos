@@ -28,7 +28,7 @@ O projeto utiliza uma estrutura em formato de grafo _dots_, que facilita enxerga
 
 ### 1. Visualização de conexões
 
-![Gráfico Zoom out](Gráficos\5k.png)
+![Gráfico Zoom out](Gráficos/5k.png)
 
 Mostra os cooperados divididos por PF, PJ e Agro e suas conexões com produtos. Isso ajuda a entender, de forma visual, como diferentes pessoas podem estar ligadas pelos mesmos interesses.
 
@@ -42,7 +42,7 @@ Aqui está o coração do projeto. O sistema:
 - Remove o que o cliente já tem  
 - Sugere novos produtos com base no que é mais comum entre esse grupo  
 
-![Gráfico Zoom out](Gráficos\vinculo_dots.png)
+![Gráfico Zoom out](Gráficos/vinculo_dots.png)
 
 
 ### 3. DB
@@ -53,7 +53,7 @@ Como foi minha primeira vez usando o neo eu optei por mockar a database para fac
 
 O sistema vai além de simplesmente sugerir produtos parecidos. Ele tenta encontrar pessoas realmente comparáveis ao cliente.
 
-![Output de Recomendação](Gráficos\output_recomendação_dots+salario.png)
+![Output de Recomendação](Gráficos/output_recomendação_dots+salario.png)
 
 O processo segue estes passos:
 
