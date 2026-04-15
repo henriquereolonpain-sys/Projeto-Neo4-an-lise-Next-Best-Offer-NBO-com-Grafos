@@ -60,4 +60,4 @@ O processo segue estes passos:
 1. Identifica os produtos que o cliente já possui  
 2. Busca outros cooperados com esses mesmos produtos  
 3. Filtra apenas aqueles com perfil semelhante (mesmo segmento e renda próxima, com variação de até 20%)  
-4. Calcula quais produtos ainda não utilizados têm maior chance de interesse, com base na frequência dentro desse grupo  
+4. Calcula quais produtos ainda não utilizados têm maior chance de interesse, com base na frequência dentro desse grupo no caso do exemplo 79 pessoas tem o mesmo perfil e contrataram seguro 
