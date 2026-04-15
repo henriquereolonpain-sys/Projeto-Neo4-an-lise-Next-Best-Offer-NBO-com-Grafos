@@ -34,7 +34,7 @@ Mostra os cooperados divididos por PF, PJ e Agro e suas conexões com produtos. 
 
 ### 2. Motor de recomendação
 
-Aqui está o coração do projeto. O sistema:
+O sistema rudimentar, só levando em consideração os vizinhos
 
 - Identifica o que o cliente já possui  
 - Encontra outros cooperados com comportamento semelhante  
